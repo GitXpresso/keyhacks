@@ -924,7 +924,7 @@ curl -X POST https://api.helpscout.net/v2/oauth2/token \
 
 ## [Shodan Api Key](https://developer.shodan.io/api/requirements)
 ```
-curl "https://api.shodan.io/shodan/host/8.8.8.8?key=TOKEN_HERE"
+curl "https://api.shodan.io/shodan/host/8.8.8.8?key=e9SxSRCE1xDNS4CzyWzOQTUoE55KB9HX"
 ```
 
 
